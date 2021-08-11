@@ -1,4 +1,4 @@
 # Project to test the FilePick package using the widget test
 
-![artigo](https://user-images.githubusercontent.com/21263146/129098384-d572b8bf-ded5-496f-8979-79d36bd7968d.gif)
+![artigo](https://media.giphy.com/media/hy2L6vtMsN0dp0OIJI/giphy.gif)
 
