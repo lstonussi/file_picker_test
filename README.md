@@ -1,16 +1,4 @@
-# file_picker_test
+# Project to test the FilePick package using the widget test
 
-A new Flutter project.
+![artigo](https://user-images.githubusercontent.com/21263146/129098384-d572b8bf-ded5-496f-8979-79d36bd7968d.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
